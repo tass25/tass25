@@ -17,8 +17,39 @@ I’m a **Big Data & AI wizard**, slaying projects in **ML, Generative AI, NLP, 
 ---
 
 ## 🔥 Animated Skill Bars (Interactive SVG)
+## 🔥 Animated Skill Bars (SVG, fully live)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YourUsername&layout=compact&theme=radical" width="70%">
+<svg width="500" height="180">
+  <text x="10" y="20" font-size="14" fill="#FF6F61">Python</text>
+  <rect x="10" y="25" width="480" height="15" fill="#444" rx="7" ry="7"/>
+  <rect x="10" y="25" width="100%" height="15" fill="#FF6F61" rx="7" ry="7">
+    <animate attributeName="width" from="0" to="480" dur="2s" fill="freeze"/>
+  </rect>
+
+  <text x="10" y="60" font-size="14" fill="#6A5ACD">PySpark</text>
+  <rect x="10" y="65" width="480" height="15" fill="#444" rx="7" ry="7"/>
+  <rect x="10" y="65" width="400" height="15" fill="#6A5ACD" rx="7" ry="7">
+    <animate attributeName="width" from="0" to="400" dur="2s" fill="freeze"/>
+  </rect>
+
+  <text x="10" y="100" font-size="14" fill="#32CD32">ML / AI</text>
+  <rect x="10" y="105" width="480" height="15" fill="#444" rx="7" ry="7"/>
+  <rect x="10" y="105" width="456" height="15" fill="#32CD32" rx="7" ry="7">
+    <animate attributeName="width" from="0" to="456" dur="2s" fill="freeze"/>
+  </rect>
+
+  <text x="10" y="140" font-size="14" fill="#FFD700">NLP / TTS</text>
+  <rect x="10" y="145" width="480" height="15" fill="#444" rx="7" ry="7"/>
+  <rect x="10" y="145" width="420" height="15" fill="#FFD700" rx="7" ry="7">
+    <animate attributeName="width" from="0" to="420" dur="2s" fill="freeze"/>
+  </rect>
+
+  <text x="10" y="180" font-size="14" fill="#FF4500">Generative AI</text>
+  <rect x="10" y="185" width="480" height="15" fill="#444" rx="7" ry="7"/>
+  <rect x="10" y="185" width="460" height="15" fill="#FF4500" rx="7" ry="7">
+    <animate attributeName="width" from="0" to="460" dur="2s" fill="freeze"/>
+  </rect>
+</svg>
 </p>
 
 ### 🎮 RPG Skill Bars (Backup)
@@ -43,8 +74,8 @@ Luck: Legendary 🍀
 
 ## 🌌 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=tass25&show_icons=true&theme=radical&count_private=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tass25&layout=compact&theme=radical" width="48%">
 </p>
 
 ---
@@ -70,10 +101,9 @@ Luck: Legendary 🍀
 ---
 
 ## 🎮 Mini-Boss Power-Up Links
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github)](https://github.com/YourUsername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YourLinkedIn)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/YourTwitter)  
-[![Email](https://img.shields.io/badge/Email-Hit%20me-red?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github)](https://github.com/tass25)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/tesnime-ellabou-3170981b8/))  
+[![Email](https://img.shields.io/badge/Email-Hit%20me-red?style=for-the-badge&logo=gmail)](laboutesse@gmail.com)  
 
 ---
 
