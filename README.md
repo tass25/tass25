@@ -11,9 +11,7 @@
 I’m a **Data Science & AI Engineering student** with **hands-on experience in ML, NLP, Generative AI, and predictive analytics**.  
 I engineer **TTS/STT pipelines for Arabic dialects, automated ETL systems, AI-powered healthcare apps**, and teach AI mastery.
 
-- 🎓 **Education:** Tek-Up University (Data Science & AI, 2026), ALX Academy (Data Analytics, 2024), Faculty of Sciences of Bizerte (Prep Math/Physics/CS, 2023)  
 - ⚡ **Core Skills:** Python 🐍 | R 🔹 | SQL 🗄 | PyTorch 🤖 | TensorFlow ⚡ | ML / AI / LLMs | NLP & Transformers 🗣 | Generative AI 🌌 | Deep Learning 🧠 | Big Data 📊 | PySpark ⚡ | FastAPI 🚀 | Streamlit / Flask / Shiny | Pandas 🐼 | NumPy 🔢 | Scikit-learn 🧩 | MongoDB 🗃 | Power BI 📈 | Matplotlib & Seaborn 📊 | Git & Jupyter 🖥 | Excel 🧾  
-- 🚀 **Projects & Achievements:** Wind Farm Optimization, Arabic TTS/STT, MediPlus Tumor Detection, Heart Disease Classifier, ETL & Delta Lake Automation  
 - 🎯 **Mission:** Transform raw data into intelligence, teach AI mastery, and deploy **solutions that amaze and inspire**  
 
 ---
