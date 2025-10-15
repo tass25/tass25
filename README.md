@@ -2,113 +2,67 @@
 <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250">
 </p>
 
-# 💀 Labou Tess | AI Overlord 💀
-> “I don't just write code… I bend reality with AI ⚡”
+# 💀 Tesnime Ellabou | AI Overlord & Data Sorceress 💀
+> “I don’t just write code… I bend reality with AI, Big Data, and NLP ⚡”
 
 ---
 
 ## 👾 About Me
-I’m a **Big Data & AI wizard**, shaping the future of **Machine Learning, Generative AI, NLP, TTS, and Deep Learning**.  
-With years of **teaching experience** and hands-on **industry certifications**, I turn complex concepts into **practical AI magic**.  
+I’m a **Data Science & AI Engineering student** with **hands-on experience in ML, NLP, Generative AI, and predictive analytics**.  
+I engineer **TTS/STT pipelines for Arabic dialects, automated ETL systems, AI-powered healthcare apps**, and teach AI mastery.
 
-- 🎓 **Certifications & Expertise:**  
-  - TensorFlow & PyTorch Deep Learning Certified  
-  - Big Data & Data Engineering  
-  - NLP & Text-to-Speech pipelines  
-  - AI Teaching & Training experience for beginners to advanced  
-- ⚡ **Skills:** Python 🐍 | PySpark ⚡ | ML/AI 🤖 | Deep Learning 🧠 | NLP/TTS 🗣️ | Generative AI 🌌 | Big Data 📊 | FastAPI 🚀 | Pandas 🐼 | NumPy 🔢  
-- 🚀 **Current Projects:** AI-driven creative tools, predictive models, datasets that push boundaries, TTS systems for Arabic dialects  
-- 🎯 **Mission:** Turn data into intelligence, teach AI mastery, and create solutions that **look like magic**  
+- 🎓 **Education:** Tek-Up University (Data Science & AI, 2026), ALX Academy (Data Analytics, 2024), Faculty of Sciences of Bizerte (Prep Math/Physics/CS, 2023)  
+- ⚡ **Core Skills:** Python 🐍 | R 🔹 | SQL 🗄 | PyTorch 🤖 | TensorFlow ⚡ | ML / AI / LLMs | NLP & Transformers 🗣 | Generative AI 🌌 | Deep Learning 🧠 | Big Data 📊 | PySpark ⚡ | FastAPI 🚀 | Streamlit / Flask / Shiny | Pandas 🐼 | NumPy 🔢 | Scikit-learn 🧩 | MongoDB 🗃 | Power BI 📈 | Matplotlib & Seaborn 📊 | Git & Jupyter 🖥 | Excel 🧾  
+- 🚀 **Projects & Achievements:** Wind Farm Optimization, Arabic TTS/STT, MediPlus Tumor Detection, Heart Disease Classifier, ETL & Delta Lake Automation  
+- 🎯 **Mission:** Transform raw data into intelligence, teach AI mastery, and deploy **solutions that amaze and inspire**  
 
 ---
 
-## 🔥 Animated Skill Bars (SVG, fully live)
+## 📊 Interactive AI Dashboard (Mini Version)
 <p align="center">
-<svg width="500" height="400">
-  <text x="10" y="20" font-size="14" fill="#FF6F61">Python 🐍</text>
-  <rect x="10" y="25" width="480" height="15" fill="#444" rx="7" ry="7"/>
-  <rect x="10" y="25" width="480" height="15" fill="#FF6F61" rx="7" ry="7">
-    <animate attributeName="width" from="0" to="480" dur="2s" fill="freeze"/>
-  </rect>
-
-  <text x="10" y="60" font-size="14" fill="#6A5ACD">PySpark ⚡</text>
-  <rect x="10" y="65" width="480" height="15" fill="#444" rx="7" ry="7"/>
-  <rect x="10" y="65" width="400" height="15" fill="#6A5ACD" rx="7" ry="7">
-    <animate attributeName="width" from="0" to="400" dur="2s" fill="freeze"/>
-  </rect>
-
-  <text x="10" y="100" font-size="14" fill="#32CD32">ML / AI 🤖</text>
-  <rect x="10" y="105" width="480" height="15" fill="#444" rx="7" ry="7"/>
-  <rect x="10" y="105" width="456" height="15" fill="#32CD32" rx="7" ry="7">
-    <animate attributeName="width" from="0" to="456" dur="2s" fill="freeze"/>
-  </rect>
-
-  <text x="10" y="140" font-size="14" fill="#FFD700">Deep Learning 🧠</text>
-  <rect x="10" y="145" width="480" height="15" fill="#444" rx="7" ry="7"/>
-  <rect x="10" y="145" width="450" height="15" fill="#FFD700" rx="7" ry="7">
-    <animate attributeName="width" from="0" to="450" dur="2s" fill="freeze"/>
-  </rect>
-
-  <text x="10" y="180" font-size="14" fill="#FF4500">NLP / TTS 🗣️</text>
-  <rect x="10" y="185" width="480" height="15" fill="#444" rx="7" ry="7"/>
-  <rect x="10" y="185" width="420" height="15" fill="#FF4500" rx="7" ry="7">
-    <animate attributeName="width" from="0" to="420" dur="2s" fill="freeze"/>
-  </rect>
-
-  <text x="10" y="220" font-size="14" fill="#8A2BE2">Generative AI 🌌</text>
-  <rect x="10" y="225" width="480" height="15" fill="#444" rx="7" ry="7"/>
-  <rect x="10" y="225" width="460" height="15" fill="#8A2BE2" rx="7" ry="7">
-    <animate attributeName="width" from="0" to="460" dur="2s" fill="freeze"/>
-  </rect>
-
-  <text x="10" y="260" font-size="14" fill="#20B2AA">Big Data 📊</text>
-  <rect x="10" y="265" width="480" height="15" fill="#444" rx="7" ry="7"/>
-  <rect x="10" y="265" width="480" height="15" fill="#20B2AA" rx="7" ry="7">
-    <animate attributeName="width" from="0" to="480" dur="2s" fill="freeze"/>
-  </rect>
-
-  <text x="10" y="300" font-size="14" fill="#FF6347">FastAPI 🚀</text>
-  <rect x="10" y="305" width="480" height="15" fill="#444" rx="7" ry="7"/>
-  <rect x="10" y="305" width="380" height="15" fill="#FF6347" rx="7" ry="7">
-    <animate attributeName="width" from="0" to="380" dur="2s" fill="freeze"/>
-  </rect>
-
-  <text x="10" y="340" font-size="14" fill="#00CED1">Pandas 🐼</text>
-  <rect x="10" y="345" width="480" height="15" fill="#444" rx="7" ry="7"/>
-  <rect x="10" y="345" width="470" height="15" fill="#00CED1" rx="7" ry="7">
-    <animate attributeName="width" from="0" to="470" dur="2s" fill="freeze"/>
-  </rect>
-
-  <text x="10" y="380" font-size="14" fill="#FF8C00">NumPy 🔢</text>
-  <rect x="10" y="385" width="480" height="15" fill="#444" rx="7" ry="7"/>
-  <rect x="10" y="385" width="460" height="15" fill="#FF8C00" rx="7" ry="7">
-    <animate attributeName="width" from="0" to="460" dur="2s" fill="freeze"/>
-  </rect>
-</svg>
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200">
 </p>
 
-### 🎮 RPG Skill Bars (Backup)
-
-Python 🐍 ▓▓▓▓▓▓▓▓▓▓ 100%  
-PySpark ⚡ ▓▓▓▓▓▓▓▓░░ 85%  
-ML / AI 🤖 ▓▓▓▓▓▓▓▓▓░ 95%  
-Deep Learning 🧠 ▓▓▓▓▓▓▓▓▓ 93%  
-NLP / TTS 🗣️ ▓▓▓▓▓▓▓▓░░ 88%  
-Generative AI 🌌 ▓▓▓▓▓▓▓▓▓░ 92%  
-Big Data 📊 ▓▓▓▓▓▓▓▓▓▓ 100%  
-FastAPI 🚀 ▓▓▓▓▓▓▓░░░ 80%  
-Pandas 🐼 ▓▓▓▓▓▓▓▓▓░ 95%  
-NumPy 🔢 ▓▓▓▓▓▓▓▓▓░ 90%  
+### 🔥 Skills Level Bars
+| Skill | Level |
+|-------|-------|
+| Python 🐍 | ██████████ 100% |
+| R 🔹 | ████████░░ 80% |
+| SQL 🗄 | ████████░░ 82% |
+| ML / AI 🤖 | █████████░ 95% |
+| Deep Learning 🧠 | █████████ 93% |
+| NLP & Transformers 🗣 | █████████░ 90% |
+| Generative AI 🌌 | █████████░ 92% |
+| Big Data / PySpark 📊⚡ | ██████████ 100% |
+| FastAPI 🚀 | ████████░░ 80% |
+| Pandas 🐼 | █████████░ 95% |
+| NumPy 🔢 | █████████░ 90% |
 
 ---
 
-## 🕹️ Boss Stats & Power Levels
-Level: 99/99  
-XP: MAXED OUT 💥  
-HP: IMMORTAL 💀  
-Damage: AI Overload ⚡  
-Mana: Infinite 🧠  
-Luck: Legendary 🍀  
+## 🚀 Selected Projects & Wins
+- **Wind Farm Optimization**: ViT-U-Net + Diffusion models, PyTorch + Big Data pipelines on Azure Databricks  
+- **Arabic TTS/STT Pipeline**: Tunisian Arabic dataset (15,200+ audios), XTTS v2 & Coqui TTS  
+- **MediPlus Tumor Detection App**: Python, PyTorch, CNN + Random Forest (92% accuracy)  
+- **Heart Disease Classifier**: XGBoost, RF, CNN, deployed via Streamlit (~85%+ accuracy)  
+- **Automated ETL Pipelines**: Delta Lake Bronze → Silver → Gold, Azure Data Lake Gen2, 70% less manual processing  
+
+---
+
+## 🏆 Certifications & Awards
+- Oracle Certified Professional – Generative AI  
+- 8+ Nvidia Deep Learning Institute Certificates: LLM apps, Transformers NLP, Anomaly Detection  
+- Google Data Analytics Specialization  
+- PCAP: Certified Python Programmer  
+- Huawei ICT Regional Finalist (2023–2024)  
+- **Winner – Deloitte Promptathon 2025**: Only female winner, 1 of 4 out of 500+ participants  
+
+---
+
+## 💥 Leadership & Activities
+- GDG SUP’COM Media Manager: Led AI workshops for students & professionals  
+- IEEE Tek-Up Student Branch: Mentored 12 juniors, conducted 3 workshops on Deep Learning, NLP & Generative AI  
+- OC Model UN (Timun TBS): Organized debates on global finance & risk management  
 
 ---
 
@@ -120,50 +74,15 @@ Luck: Legendary 🍀
 
 ---
 
-## ⚡ Chaos & Fun
-- 🧠 Brain constantly in **AI overdrive**  
-- 🎵 Beats + code = 💥 creative explosions  
-- 🌎 Tunisian soul, global brain  
+## ⚡ Fun & Chaos
+- 🧠 Brain in constant **AI overdrive**  
+- 🎵 Beats + code = creative explosions 💥  
+- 🌎 Tunisian soul, global mindset  
 - 🔥 Meme enthusiast & chaos coordinator  
 - 💻 Lives to teach AI mastery, build predictive systems, and make computers smarter than humans  
-
----
-
-## 🎮 Mini-Boss Power-Up Links
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github)](https://github.com/tass25)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tesnime-ellabou-3170981b8/)  
-[![Email](https://img.shields.io/badge/Email-Hit%20me-red?style=for-the-badge&logo=gmail)](mailto:laboutesse@gmail.com)  
-
----
-
-## 🌪️ Ultra Chaos Section
-<p align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200">
-</p>
-
-> **WARNING:** Visiting this profile may cause extreme admiration and uncontrollable hype 😎🔥  
-
----
-
-## 🧬 Easter Egg Section
-
-| Skill        | Power Description |
-|--------------|-----------------|
-| Python 🐍       | Summon AI familiars |
-| PySpark ⚡      | Cast Big Data Storm |
-| ML / AI 🤖      | Predict the future |
-| Deep Learning 🧠 | Bend neural networks to will |
-| NLP / TTS 🗣️    | Whisper to machines |
-| Generative AI 🌌 | Create worlds |
-| Big Data 📊     | Bend reality |
-| FastAPI 🚀      | Deploy lightning-fast AI services |
-| Pandas 🐼       | Transform data like magic |
-| NumPy 🔢        | Compute anything instantly |
-
----
 
 <p align="center">
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250">
 </p>
 
-> 💡 **Motto:** “Code like a god, teach like a legend, laugh like a hacker 😎”
+> 💡 **Motto:** “Code like a god, teach like a legend, inspire like a queen 😎”
