@@ -36,24 +36,16 @@ I engineer **TTS/STT pipelines for Arabic dialects, automated ETL systems, AI-po
 | Pandas 🐼 | █████████░ 95% |
 | NumPy 🔢 | █████████░ 90% |
 
----
-
-## 🚀 Selected Projects & Wins
-- **Wind Farm Optimization**: ViT-U-Net + Diffusion models, PyTorch + Big Data pipelines on Azure Databricks  
-- **Arabic TTS/STT Pipeline**: Tunisian Arabic dataset (15,200+ audios), XTTS v2 & Coqui TTS  
-- **MediPlus Tumor Detection App**: Python, PyTorch, CNN + Random Forest (92% accuracy)  
-- **Heart Disease Classifier**: XGBoost, RF, CNN, deployed via Streamlit (~85%+ accuracy)  
-- **Automated ETL Pipelines**: Delta Lake Bronze → Silver → Gold, Azure Data Lake Gen2, 70% less manual processing  
 
 ---
 
 ## 🏆 Certifications & Awards
+- **Winner – Deloitte Promptathon 2025**: Only female winner, 1 of 4 out of 500+ participants  
 - Oracle Certified Professional – Generative AI  
 - 8+ Nvidia Deep Learning Institute Certificates: LLM apps, Transformers NLP, Anomaly Detection  
 - Google Data Analytics Specialization  
 - PCAP: Certified Python Programmer  
 - Huawei ICT Regional Finalist (2023–2024)  
-- **Winner – Deloitte Promptathon 2025**: Only female winner, 1 of 4 out of 500+ participants  
 
 ---
 
