@@ -61,9 +61,9 @@ Machine Learning • Deep Learning • NLP & Transformers • Generative AI • 
 
 ### 🤝 Let’s Connect
 <div align="center">
-  <a href="mailto:tesnime.ellabou@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tesnime-ellabou/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/tesnime" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="mailto:ellabou.tesnime@ieee.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tesnime-ellabou-3170981b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/laboutess" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </div>
 
 <p align="center"><em>Always happy to connect, collaborate, and explore AI innovations 🤝</em></p>
@@ -72,6 +72,6 @@ Machine Learning • Deep Learning • NLP & Transformers • Generative AI • 
 
 ### ✨ Philosophy
 <div align="center">
-<em>“Elegant AI is not complexity — it’s clarity, robustness, and explainability.”</em>
+<em>“Elegant AI is not complexity , it’s clarity, robustness, and explainability.”</em>
 </div>
 
