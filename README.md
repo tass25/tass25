@@ -1,29 +1,41 @@
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250">
 </p>
 
-# 💀 Tesnime Ellabou | AI Overlord & Data Sorceress 💀
-> “I don’t just write code… I bend reality with AI, Big Data, and NLP ⚡”
+<h1 align="center">💀 Tesnime Ellabou | AI Overlord & Data Sorceress 💀</h1>
+<p align="center"><em>“I don’t just write code — I translate imagination into intelligence.” ⚡</em></p>
 
 ---
 
-## 👾 About Me
-I’m a **Data Science & AI Engineering student** with **hands-on experience in ML, NLP, Generative AI, and predictive analytics**.  
-I engineer **TTS/STT pipelines for Arabic dialects, automated ETL systems, AI-powered healthcare apps**, and teach AI mastery.
+## 👩‍💻 About Me
+I’m **Tesnime Ellabou**, a passionate **Data Science & AI Engineering student** driven by the art of transforming ideas into intelligent systems.  
+My work lives at the intersection of **machine learning, natural language processing, generative AI, and big data engineering** — where creativity meets computation.  
 
-- ⚡ **Core Skills:** Python 🐍 | R 🔹 | SQL 🗄 | PyTorch 🤖 | TensorFlow ⚡ | ML / AI / LLMs | NLP & Transformers 🗣 | Generative AI 🌌 | Deep Learning 🧠 | Big Data 📊 | PySpark ⚡ | FastAPI 🚀 | Streamlit / Flask / Shiny | Pandas 🐼 | NumPy 🔢 | Scikit-learn 🧩 | MongoDB 🗃 | Power BI 📈 | Matplotlib & Seaborn 📊 | Git & Jupyter 🖥 | Excel 🧾  
-- 🎯 **Mission:** Transform raw data into intelligence, teach AI mastery, and deploy **solutions that amaze and inspire**  
+I’ve designed **TTS/STT pipelines for Arabic dialects**, built **predictive analytics systems**, developed **AI-driven applications**, and guided others to understand and master the world of intelligent automation.
+
+> ✨ My philosophy: *AI should not just process data — it should amplify human potential.*
 
 ---
 
-## 📊 Interactive AI Dashboard (Mini Version)
+## ⚙️ Technical Proficiency
+
+**Languages:** Python 🐍 | R 🔹 | SQL 🗄  
+**Frameworks & Tools:** PyTorch 🤖 | TensorFlow ⚡ | Scikit-learn 🧩 | Pandas 🐼 | NumPy 🔢  
+**AI & Data Science:** Machine Learning | Deep Learning 🧠 | NLP & Transformers 🗣 | Generative AI 🌌  
+**Big Data & Systems:** PySpark ⚡ | FastAPI 🚀 | Streamlit / Flask / Shiny | MongoDB 🗃 | Power BI 📈  
+**Other Tools:** Git | Jupyter | ETL Automation | REST APIs | Excel 🧾  
+
+🎯 **Mission:** To craft intelligent systems that learn, adapt, and inspire — merging technical precision with creative purpose.
+
+---
+
+## 📊 My Skill Spectrum
 <p align="center">
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200">
 </p>
 
-### 🔥 Skills Level Bars
-| Skill | Level |
-|-------|-------|
+| Domain | Expertise Level |
+|--------|------------------|
 | Python 🐍 | ██████████ 100% |
 | R 🔹 | ████████░░ 80% |
 | SQL 🗄 | ████████░░ 82% |
@@ -31,48 +43,59 @@ I engineer **TTS/STT pipelines for Arabic dialects, automated ETL systems, AI-po
 | Deep Learning 🧠 | █████████ 93% |
 | NLP & Transformers 🗣 | █████████░ 90% |
 | Generative AI 🌌 | █████████░ 92% |
-| Big Data / PySpark 📊⚡ | ██████████ 100% |
+| Big Data / PySpark ⚡ | ██████████ 100% |
 | FastAPI 🚀 | ████████░░ 80% |
 | Pandas 🐼 | █████████░ 95% |
 | NumPy 🔢 | █████████░ 90% |
 
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **Winner – Deloitte Promptathon 2025**  
+  *Selected among 500+ participants — the only female winner and Top 4 finalist.*
+- 💠 **Oracle Certified Professional – Generative AI**
+- 🧠 **8× NVIDIA Deep Learning Institute Certificates** — covering LLMs, Transformers, Anomaly Detection, and AI Systems
+- 📊 **Google Data Analytics Specialization**
+- 🐍 **PCAP: Certified Python Programmer**
+- 🌏 **Huawei ICT Regional Finalist (2023–2024)**  
 
 ---
 
-## 🏆 Certifications & Awards
-- **Winner – Deloitte Promptathon 2025**: Only female winner, 1 of 4 out of 500+ participants  
-- Oracle Certified Professional – Generative AI  
-- 8+ Nvidia Deep Learning Institute Certificates: LLM apps, Transformers NLP, Anomaly Detection  
-- Google Data Analytics Specialization  
-- PCAP: Certified Python Programmer  
-- Huawei ICT Regional Finalist (2023–2024)  
+## 💼 Leadership & Involvement
+
+- 🎙 **GDG SUP’COM – Media Manager**  
+  Led technical communication and hosted **AI workshops** empowering students and professionals to master ML and GenAI.
+
+- ⚡ **IEEE Tek-Up Student Branch – Mentor & Workshop Lead**  
+  Mentored 12+ students and organized **three high-impact workshops** on Deep Learning, NLP, and Generative AI.
+
+- 🌍 **OC Model UN (Timun TBS)**  
+  Coordinated debates on **global innovation, finance, and technology ethics**, merging analytical and creative thinking.
 
 ---
 
-## 💥 Leadership & Activities
-- GDG SUP’COM Media Manager: Led AI workshops for students & professionals  
-- IEEE Tek-Up Student Branch: Mentored 12 juniors, conducted 3 workshops on Deep Learning, NLP & Generative AI  
-- OC Model UN (Timun TBS): Organized debates on global finance & risk management  
-
----
-
-## 🌌 GitHub Stats
+## 🌌 GitHub Insights
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tass25&show_icons=true&theme=radical&count_private=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tass25&layout=compact&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=tass25&show_icons=true&theme=radical&count_private=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tass25&layout=compact&theme=radical" width="48%">
 </p>
 
 ---
 
-## ⚡ Fun & Chaos
-- 🧠 Brain in constant **AI overdrive**  
-- 🎵 Beats + code = creative explosions 💥  
-- 🌎 Tunisian soul, global mindset  
-- 🔥 Meme enthusiast & chaos coordinator  
-- 💻 Lives to teach AI mastery, build predictive systems, and make computers smarter than humans  
+## ⚡ Beyond the Code
+- 🧠 A mind wired for **experimentation and discovery**  
+- 🎵 Music and algorithms are my rhythm and flow  
+- 🌍 Tunisian soul with a **global curiosity**  
+- 🔥 Advocate for women in tech and inclusive innovation  
+- 💻 I live to **build, teach, and inspire** through AI  
 
 <p align="center">
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250">
 </p>
 
-> 💡 **Motto:** “Code like a god, teach like a legend, inspire like a queen 😎”
+---
+
+<p align="center">
+  <strong>💡 Motto:</strong> <em>“Code with precision, teach with passion, and lead with purpose.”</em>
+</p>
