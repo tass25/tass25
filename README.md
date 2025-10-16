@@ -32,7 +32,7 @@ Machine Learning • Deep Learning • NLP & Transformers • Generative AI • 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="50" height="50"/></a>
-  <a href="https://databricks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png?20230109143554" alt="Databricks" width="250" height="250"/></a>
+  <a href="https://databricks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png?20230109143554" alt="Databricks" width="200" height="200"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/></a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Colab" width="50" height="50"/></a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/fr/4/45/Hugging_Face_logo.svg" alt="Hugging Face" width="250" height="250"/></a>
