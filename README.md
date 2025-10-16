@@ -32,11 +32,10 @@ Machine Learning • Deep Learning • NLP & Transformers • Generative AI • 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="50" height="50"/></a>
-  <a href="https://databricks.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/databricks.png" alt="Databricks" width="50" height="50"/></a>
+  <a href="https://databricks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png?20230109143554" alt="Databricks" width="50" height="50"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/></a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Colab" width="50" height="50"/></a>
-  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" width="50" height="50"/></a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/hugging-face.png" alt="Hugging Face" width="50" height="50"/></a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/fr/4/45/Hugging_Face_logo.svg" alt="Hugging Face" width="50" height="50"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="50" height="50"/></a>
 </div>
