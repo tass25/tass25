@@ -1,119 +1,75 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=36&duration=3000&pause=1000&color=9A86FD&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Tesnime+Ellabou;AI+Engineer+%7C+Data+Scientist+%7C+Innovator;Turning+Data+into+Intelligence+%26+Intelligence+into+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=0EF7FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Tesnime+Ellabou;AI+Engineer+%7C+Data+Scientist+%7C+Researcher;Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG" />
 </div>
 
 ---
 
-<h2 align="center">✨ About Me</h2>
-
+### 🌌 About Me
 <p align="center">
-I’m <strong>Tesnime Ellabou</strong>, a passionate <strong>Data Science & AI Engineer</strong> dedicated to building intelligent systems that combine <em>creativity, mathematics, and innovation</em>.  
-I specialize in <strong>Machine Learning, Natural Language Processing, Generative AI,</strong> and <strong>Big Data</strong>.  
-My work explores how AI can understand language, predict behavior, and enhance human potential.  
+I’m <strong>Tesnime Ellabou</strong>, a passionate <strong>AI Engineer, Data Scientist, and Researcher</strong> dedicated to building intelligent systems that combine <em>innovation, explainability, and real-world impact</em>.  
+I specialize in <strong>Machine Learning, NLP, Generative AI, Explainable AI (XAI), Big Data Engineering</strong>, and designing AI pipelines that are robust, interpretable, and production-ready.  
 </p>
 
 ---
 
-<h2 align="center">🚀 Core Expertise</h2>
-
+### 🧠 Areas of Expertise
 <p align="center">
-  <em>AI • Machine Learning • Deep Learning • Generative AI • NLP • Big Data • ETL Automation • Predictive Analytics</em>
+Machine Learning • Deep Learning • NLP & Transformers • Generative AI • Explainable AI (XAI) • Computer Vision • Big Data • MLOps • Predictive Analytics
 </p>
 
 ---
 
-<h2 align="center">🧠 Languages & Tools</h2>
-
+### 🧰 Languages & Tools
 <div align="center">
 
-  <!-- AI & ML -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50"/>
-  </a>
-
-  <!-- Data Science -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
-  </a>
-
-  <!-- Big Data / Backend -->
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="PySpark" width="50" height="50"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
-  </a>
-
-  <!-- Languages -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="SQL" width="50" height="50"/>
-  </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/></a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
+<a href="https://langchain.com/" target="_blank" rel="noreferrer"><img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" width="120" height="50"/></a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="50" height="50"/></a>
 
 </div>
 
 ---
 
-<h2 align="center">🏆 Highlights</h2>
+### 📚 Research & Publications
 
-- 🥇 **Winner – Deloitte Promptathon 2025** — Only female winner among 500+ participants  
-- 💠 **Oracle Certified Professional – Generative AI**  
-- 🧠 **8× NVIDIA Deep Learning Institute Certifications** — Transformers, LLMs, and AI Systems  
-- 📊 **Google Data Analytics Specialization**  
-- 🐍 **PCAP: Certified Python Programmer**  
-- 🌏 **Huawei ICT Regional Finalist (2023–2024)**  
+#### 1️⃣ [Adversarial Robustness of Deep Vision Models: A CIFAR-10 Study](https://www.linkedin.com/feed/update/urn:li:activity:7378375492753690624/)
+🔴🚦➡️🍏 Tiny pixel-level changes that humans cannot perceive can completely fool AI models.  
+**Highlights:**  
+- ResNet18 accuracy collapsed to near 0% under FGSM & PGD attacks  
+- Reveals the hidden fragility of deep learning models  
+- Demonstrates the critical need for **robust, safe, and trustworthy AI**  
 
----
-
-<h2 align="center">📈 GitHub Insights</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tass25&show_icons=true&theme=tokyonight&count_private=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tass25&layout=compact&theme=tokyonight" width="48%">
-</p>
-
----
-
-<h2 align="center">🌿 Beyond the Code</h2>
-
-<p align="center">
-  💡 Lifelong learner with a passion for making AI accessible and ethical.  
-  🌍 Tunisian roots • Global vision.  
-  🎵 Music, design, and science shape how I think, code, and create.  
-  💻 Building systems that learn, adapt, and inspire.  
-</p>
+#### 2️⃣ [Redefining Finance AI: Fusion Models + XAI in Action](https://www.linkedin.com/feed/update/urn:li:activity:7380187444186529793/)
+🚀 Pushing AI boundaries in **financial anomaly detection**  
+**Highlights:**  
+- Multi-domain fusion of tabular financial indicators & NLP-driven signals  
+- Explainability at the core using **SHAP-driven XAI** for transparent, accountable predictions  
+- Production-ready workflow with **MLflow & Weights & Biases**  
+- Strong AUC, precision & F1 scores, fully reproducible  
 
 ---
 
-<p align="center">
-  <em>“Code with precision. Learn with passion. Lead with vision.”</em>
-</p>
+### 🤝 Let’s Connect
+<div align="center">
+  <a href="mailto:tesnime.ellabou@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tesnime-ellabou/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/tesnime" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+</div>
+
+<p align="center"><em>Always happy to connect and collaborate 🤝</em></p>
+
+---
+
+### ✨ Philosophy
+<div align="center">
+<em>“Elegant AI is not complexity — it’s clarity, robustness, and trustworthiness.”</em>
+</div>
+
